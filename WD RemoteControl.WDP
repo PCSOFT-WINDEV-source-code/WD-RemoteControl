@@ -1,0 +1,123 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD RemoteControl
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD RemoteControl
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADvC5gr6pIMoeCvQfQAq41+nPFt+rq9b+d8nBOsPz3SkOk2d6uocR+QPtCCxTtp1qh4swiTIcrPskUd+0OMieocad0UtctwKuZ30GQ/zd1pKhylM6U2nKQrSLigAl/2TXnAJvPwcmtvr3uxa6mU+0Fg0RpM7q40FPZTLM7/lkDP51SRGBnmNF/YsG/jf4coNoMxwA3fvtYa/wRDa+eHO8V6N9yJJPXXw8Pbs9F0EDyDEyAw2HVxNXQbPilBANJtUTWVz2/fIC6Ja/1XOidH30wlkAtrkn3wYh/6zEgG0c8SFoc+rth78PjZCGx6hNWY81lBV4DcSPYiEdtWaDAwjso9RrMFCUcvsZSpAxee6IMNkePqDlMl0swLAqf/I19bId/34UvzA2sevYrgaab92jUqYBcPRa52fhLdxB7k/PUHen1jwSmhYzeZ3riIy5dSC0o//qteOKFasfTsQmuXGJlGjQjd4QDdxwneScQsLmJ5N6yocx32yxxDXYqOaj5dmAEGo8JqhHVb9Fl567t2Rp5KtCy1PCI96+dHPMyr8uU0C1ben/UP4EibmJgA9COs7zNFRh9aYNl6F6qGBPD62UinZcb2bFYAyJkTX5yISgENIAfVQSWxBBVJwvjeh9RbjNZwym2Tj+D0PVC3zZqOiNi7W84EvY0Gp3pLxWbCm/9zUCwrCLLt5fB134itivDsZB5JKh6Yd2MPbrsMY41wzhBlJbxMDUCqY98tY1qwWBHr9XFcMlWqBomK+wee93tiNDl1+v3ljo0eVvnos/ljb2RS7Y+TqdGf4IxClujS+sga6uG6RoljsThYFNcTFAWRwEhcO58Fbhc3dbgwRHxPToIgrXAFqzStyo/xSkaEWsoIwyhBqaezWskb5A1X0fKeNu1VVA96PvZiUyulaKPmonXKUs3akitb0k5xhE5qvmlYDApKLhswoE5zGCH8Iy9+1b0HopAHXZteObSOhS+5OZ8m7Rv7BdkntB4NQ5yvk4JSFiXuWweIKdkKel+2wkT4R85aKfiPLPvayeTIx6cZjrRZfBYXNkmfQu/E22+UwO1amek2dtsAFo88QgOoBqlFLmLsD61cYznpfJV6Zz4kw2hMQ0sDPhlb3TqlSyTbCOifcWkyyauVcRHZUPk/8m2/y2/XXb5tXIXAhiP+f0EPJpqQaNtvvvn2WjD3HKJFmZ7rDTc/yQMqNAJA9YlwagrLF9g0gizylJauLRF3bC7vyCMZGeHGnQO7E1v4RM/6g0tlq15MWt8yOe5VoEf4BVVeTum2E5kZXZuqNA6pijHRAFBgQguMoaVTT3SAo0kWJySEfLywTnGlwXiNgc6DEqTEAdx+8/D+smYkYccJUAjYesNaIK6I8Ug4R98yA+Th7pwMJIDz+fcLiRpaS5IqsComUQxiR2J+xnsggblc0yVHHUjQ17XcTfRNJhz3XC3NcDdD3xxOHjhd7NryBLR1XYvFEV1ZGsBYsIlTzckFDUpxbwdESt1WH7+/1pFLBTLDpx2e/FFMC7+GJer/jB6zXf5UkrfL5L017UNC0SJKZxptqGpkQu/PeOumY0hCq6WSjzWBbJN8KSCwWYpo2LfX7NSA6zgujTVfy4MgwvNOdFpUwpWdHv3fumINL6qPnIy4u8Hpn7iQvdlOLdL8GgRyODnfmEmPwcL1yGHr6E6mjm9sKGjcLQNQz5FhsWeId3cjCEFCY+nBLB6ysrFsLY06wDo8w0l6wLnpXsOGqOaxhiysJcoyRwYrrRywhXnoc1h4yurDpIgqc6HmKKZe5juzp5fQvcxEQ+hcf59fA9VlVA0plbJzSEJpCy7p6S+15E0Bl9I86au0tawcRYRJHHbwsXdd9f6cu+5qsPUkBsM8jLCSQe71Bl2ZzGojNhtTsxnAyO90SAyAT4z4IuvjbfGAmBy2EhiDg10lPT0FIamPZUsEhYOp6xDZ1+hFtcaEYmpXobwluFTTPPdVJ/pW3LhF1kbq6pC2Unm1ncN/JbmB20iWC3b9+3Z4fzhqxO4qVnUFeP9xcl7FO0gteY3tFLYVulg8knCIREeEULI+Ve6Nvx2OgFfFHS2GAzEkYdZMHjmm
+ configurations :
+  -
+    name : WD RemoteControl
+    internal_properties : CAAAAAgAAAAn3E6udUKA/SxUHrAB+X4vg80q4RQt4mt4eOvhqf9wcWrX71RqgHVeumHUSDdy2+/8nJgtjjVUewt9EMNgv2UIh8ptfO24akVn888oWx2vpcc5aQGTuWn+6nJt6CGFiTMW5KlgbXBibBXr0MyN+jf7gyUZUjt+mSAdRaG2mhTw06SszjUEB+h3x+GRUK0jLcM/o5igwZqCm2GIl6xkPLTKVIgxbOMdCUjuhpDG9kkpfcZSbbqmmMXAWiG06mMZI0pOHKw8wD9KLTIIeUBR8uDeOcYRAsbBUaGoONmSZwyspyDelm5p1vpSatoh8q3wP3OqRiJJxZp8aY3ehAnd2q7aYo+dECNrxS74inrEQGBcM/dp3m6a28PVEpRVJOhaPEGyKSP30SkkH7W3OY4opxaoywb91Cw9r6jSVrNLLiuWx5cJWPpKXGXVeaTtUXPA6BX0FsLZXhjlfjUfK0XAwAdiVj54YW8XBBuLR1mdF0wlpgEB6poYCjmc8JDi/2vocB4ivBulSCeK5q2mY1k2tj532ElnUAOzmUbLQ24MkPCI6NOBWChA8BGZlxiNm725aKwd6Ih95UtWG7LxMYcjmvEtsqIC9XCaKfzFjueLK/nawxenTPOoRwersFt4AnlojxNDBEda9l7a5mn5xYuCp9JeNld+9cIVeiE/uPvH3Tr1cU8I9+XFYdHZr46KZ7Lws6WrSTVY9cawj1BNyVVurnwkg60rjxEb7eGbvlDFpMmM5Donin25LtuppB2Vyr3XhxoNtK08Jk0aJgyI/vZhpJJwwj3iXxs/gl91wd8toqUHD/Gmc+JWZ3JAKflM2Ml9HXpXITVrwcfS6xspKRvC5N7d5mFKCDGVg/Pu2zhP31g1gnt5slJ9Avjgjdm33rTqV8KUkDFz4mw/wRwaB4Lb9w18tQeTi/xVrdOufjDbX6K5spZaeXdCg9x2Sy/9KJTtIRDsJ/Vj9OAmiqq11V5wXolwTGlJiZZVZRCBUeGM+Au4qfP9BNyJhvJCfvhySXjp9yD/O+Pu2LENzN2W9pTPlQeltYHJ5UNLwSdoDyYpKFJDhkZDULLpJCU46t7Add3YeCEs/pEYUvIfiC+X5t9mBrgM94itNGpjmwK4FL7AemKO06txubsIB4LZYVvQjsQb9RRmWkZBc8u3PwSKBnDLbztTuSDZpJkH/9Ux8gXCBCAxM0m45k0fxCpc5yMytLm+BNT/QSfPV9MohIgL0h1yM79mpHRun0CwojfjZ0/YcL0T2iOoJErj8DZolWDFpgLwSwHk9dXlMdl/Xrva0qvLIGRfbKixW08ZXusgRKT5IOOdZEUoT7KtjG+of/lK/3wJqOZd3cVGk5qa7q9XP2r9crqGVohr5com+5niKQx42aI6nf/D/InhnFmjx8a6u32M2kMK7WGhf65xgYsYw7RQ8uD05AqXNNPNZI297s4wriWymBpQfon4Z4uSnvet10FkmdNfR7/VdgZkM+5nf7j3lVHmfv66SLW1xLc5fFtESNtztG8/oYM1k+Phx2Vz24PzdcHi7PfPtb4bWKaW64o4iN4jz/JyqcbOIbdJqovpRBGt0Xha3zCiNlsZoyo/sCQX68BiJ6X+1Ljov59vhyNyZ913EFcp6Te0vIGaUN2n1ni1doFSoWItzRFKmmUhX4buAG+S6MzSv3B+hYqZw7GBEB3sUeEE+AIqi+0xxvrlj92P/fArCtsIP6GMyJ7S8U2MxDEtAvQyGCs9Bhce9XRz71++7jwFVuAW36ehACGtq4ek0br0DsB7W5x5NMHirmtdVHKjFz9P3Xqzv+NeV/OJ13zSWdqJPVjHKWHT+LrXCd22tMACyaXaX2zm+UPs0iJWSkVe+13/H+YjZZxQ9aRi0I4CoE25p7cjNtGhvjGq+gec7edy+W9zM7RDMMfrwX/k1gOkl7RXGoYhp5xTotV5VN0wHMJqOUxyZcPyAXai37eansLM41Cy+dsUaq50D4E1o30dJePpUn3tyCX+aOu4wHXuMCEgQo0EPMJQElmfaSJwKIqU48oYlHc5QPWwcasCiM0gW1cOcr9sNVCPXlHgqWa4onGSTyyw58V4QkI4wQIiSG1WOuuzqlmXEwyORMylI2oZVxOGccwLliZzOOzb4H2aDYznbxQs6TQDF5o51xeAYT2cA+0ekr2VjF5GHJ6Um9N8jgCVMLM/jXSLRRDVXTTwJxa+Ah0b7Irgz0CqoX80HWzfrP6wgTBO14YuEh5pib5ut3eQqtvHh+ED9AWv4TypbReFzNLtlL5XMyosNflPpf3wisvH9Ljm3V7sI8hzcKwK7K42XMR7k5V3+Dgoj6wxoMTJ59Ab+XD4n/0BSmiz2ZO6blydFyMxP+rh1LXzW8Bh8f/cUxmbgWK3fOfkT3MC3iGrpaK65+Gf7nzrbngCyEOnFZrgHK5VuptLVT+eRy5CQUv2wRjaDMC7SUUgGmQ1ahFO7tXre7Hf/T0oo4gYVy6BP3W6X9fYDlkV+zRxF97RxTfqV0+3BMH+7p42cGao2N/aYkiQooYaOf+QQwWTci3ATpAdfgQ9RZ6kfDtq6nevRqKlEMjqRdG4Sv4KmJu1pr0ad8sVWXVft2SUHzbHfvb7pXOGA5Gbq8fTWpcD5fJ0i2PkSWeZnW4Ndfnk89ATUO79DV31ct1wScCwcyxu2y66ypanMbGZsQSY6205T4774lTnLVOtkwHQnZgn2lRCBxJgNoU8LThpZ31D/EQCwEITT4FDU0d+O4jFxnIkPtsGRfhqKsaL5X25XdLdV76t7Agk+EdRXQSEQUvN/PCk6C4JQRJB2ZWXB8q2CNqAqqBNxKzgRiSvcBCsvlpU1f0uJ7T0DHUWStxV2lIvaEM/l1r10oy105lSyxJBmXReHC2q73RmNBBnznrDnjLDzlmw8YNLpie+/FEYvt5mzA47huL1FUG5h7NXLWu5/P/CQzyJZDSuhOgplqyy71G2sEA+4eru0oxgNgkFOtn1fd2UpFmIBXyCzhhHO2iKUaya/pcWIN4eDWNUgcznTWsP6bGGlADQY3R4krE7hoGe39OjsyinOKmvbLYl7Vr0mIs0eIWqOTAYaG6aQe9vM86uC3VVKj0r4WtB8ACP1tITVN8YHvMQf6dvO2jpD9e7RRxhR2y35lV5J4w/Og8CJidw5pHVkjYq7t/d4ZQUU5X3YqqTQpLdRXHn4s5GPgcQUDSobrWmNUmp+QtOnY2/JeVP/5HjVO6W0vHZQbAXFtFOoUup2HN2Zt/77XiCiSjRN8gh57MW1VXhSSp6zz7TI2I/85xXTqfY+EZC2IEt5K777q1BoL6NAy3Sji/ra8SHmU1Dr97WfdLtZdoWldXg6tZLb3tZaoRBt4V/D6krYh9BXPxe//M+4PZ6rgAaiCUUVF9xp3NFxMLODnioxecv6VPfy8sKoT8wQHQ6WH1NBM0IS0S9gviWdruvGb26Qp5qfhaDV6HrSjfSCEyrwqdykDclUadQC6dzhcghkdGykdlCrYZFCNeVQY/Zr0Bg9tid2zZuCrhz4flCt+dyfwlOCDIi6DXIg6c76OwB0UkVfIhg06S1uJPEjECQgG9RL74CfqhrJ2XSWUZXq9axbBuF+wxZnVpSJ03uOpvXu0A/jk7dkG8sWVVTyQhdCy0WGLZD7TacnGiIjx5dg07Me25afAXOgAZdOEiFKx0woheasfo48xcN0pBF/937WaBCxuJ8RIfTTxl84/4Olo8JDpJ2rov7VxweEW3esochHTEBqGPsnyPySRpGfkObJfNlpbNOsotKPhLUg+QmZGygX2wBr5znYzb5pDiBX9TnAxVx5BNIT2jGrwrquqmgXMF76/d0VOWVRZWf/hfxSSLdaEc8CjHHn2opDCdRL5rfKx1z3kI+mVw3hBfOyvlQgKanbTW2/s53eQGDHtesLjbUXam2jrJzo9XYJ3NOfoKz48cAa+KY+/6cc49p27tPNRfS+EfblfDwBhCxJLY9I2CMadImbqB8ps9wSdyzhU6+OGB6MWzJpJsfujcc9DSyvglAovTt/63MaHI6cfyNc75czdwEuoG/c36RNgoKMgfJSZ152If0pyLtYDyaApm6Lherq0Wo+OgnEULiYWpvIRmx9nB/7xcD14cHvNFkSHPfHw4nJm9ILyt6+YsEavGNq/peGrYlu5vpM7cGUYBocnGV9vEfYWK22BGv1OQ0LO3UThidMHvFMIe7FkQyErF0mPkZ98PSGsIoera/FprHp9kt8cU1NQfni5DXHqlTCTx9HmpJCPDBxC+cxx3RlxuhfMg4im+I6Aey1n8meQvLF4yBiH2dQcxTt0TZVnIr9ZLxBWvuwYHTenmMOVGYCGGRL5S6T+HGoiegsIjE/5n/D7yBJPmXvwSBQarT2HU3tlMjK+NIG1YlMNBwbaf+yrQrUlMS5Dqpp7+kiWmeTXcBPS3bGuOWzMSN6XKGwl40kXSqmDytDI8jar+D4LwjZf6ujrM/b8ze9l5YbsJwssprjQcXBq4lOorLd5qly5nq07VK+M5gcu5/Jd5yUGV4m/h9oHeZjTkp3KX9lfHajSccJ8VZzx1SnaZCVKHOK3w9d1q6xCX6PTOqud0jdl/EHvmMKHayYonKNgOjleTyqdpPbXKI29p0NJmiAPGDMghVu4EcIi7EH9yynb22NZu1kYbZ9xFgFu5Jm+ja1qqliLkI5Utm8go3L6EiafS/Y/ZwTdvVKplpox42EZcf0LULTA0+Hxlo+wJI/W+g5mO61RoMiEguLw==
+    configuration_id : 11809164388817098200
+    type : 1
+    generation_name : WD RemoteControl.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 3
+     autoincrement_version : false
+    icon_filename : .\RemoteControl.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4acda38200227a3e
+  elements :
+   -
+     name : WIN_WindowAutomaticCheck
+     identifier : 0x4e57681e0c9387e6
+     internal_properties : CAAAAAgAAAC3k5+DIB0VFiF6Jix2bz0E16QiamNYENobtyAAd5cHIevVa8ZBx0gpfrginmaaZlqiog==
+     physical_name : .\WIN_WindowAutomaticCheck.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x3ffe95fb3399332d
+     internal_properties : CAAAAAgAAAAHA2+zcC2FprEKtlzGEaGIP3h6OqBhzdYnMd2CRvkdg0m36VixV9i5zkiyDpZKNqoSEg==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_RemoteCheck
+     identifier : 0x4e5518be00320e8f
+     internal_properties : CAAAAAgAAAAXc3+jAH01NoEaRsxWPQHw37gqircqAXqLtcRcGRWBb02j/aRh52jJ3lhCvka6RroCAg==
+     physical_name : .\WIN_RemoteCheck.wdw
+     type : 2
+   -
+     name : SET_GlobalProcedures
+     identifier : 0x4e57684a0c97360f
+     internal_properties : CAAAAAgAAABBPbnt2oevQA+UFD4QOo/aHWxUvJNQu7kDcT0riGY0zDScvHWXqTYXaNLMNPz0jHxEzA==
+     physical_name : .\SET_GlobalProcedures.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAqFRsQfVRQ4+azZCK/LVqSHQ0MVOkhaPlE43kTIdrAV/pdS2H4I32yY6vrdezYWDs5Zyf0WLOtlpXCHTR0HlSfs2tvFNv+L2Gjpf+DcAhjXVKeNSTV1h7I44rs8DoAL5Ge4vQcjbYsvL9ysRrVu+XiRRtxg8JskGkB
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      // The remote check of an application can be customized via the WLanguage function named AppliControl.
+      // This function must be the first statement called in the initialization code of the project
+      //
+      // The remote check can be configured: 
+      // - While running the project end code
+      //		AppliControl(fExeDir()+["\"]+"WDUPDATE.NET", True)
+      // - Without running the project end code
+      //		AppliControl(fExeDir()+["\"]+"WDUPDATE.NET", False)
+      // - While opening a custom window
+      //		AppliControl(fExeDir()+["\"]+"WDUPDATE.NET", "WIN_AutomaticCheckWindow")
+      // - While calling a custom procedure
+      //		AppliControl(fExeDir()+["\"]+"WDUPDATE.NET", ProcedureAutomaticCheck)
+      //
+      // You also have the ability to disable the remote check
+      //		AppliControl("")
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD RemoteControl
+     identifier : 0x4acda38200307af9
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

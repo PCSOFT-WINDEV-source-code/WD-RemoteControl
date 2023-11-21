@@ -1,0 +1,166 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_WindowAutomaticCheck
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_WindowAutomaticCheck
+ identifier : 0x286e62370d799c50
+ internal_properties : CAAAAAgAAAArXtAFLAYYiB0/1Z0x88l+oV1eC6D4z1Mvl6L2QTEjqcWV6S986gXrp3XyaXCuo6kZ9vv19y2hsfIhHOokF+7+m7hBrxSezejJAWy+fu6GWHqsOknJq4zDdLBs5D1uvKJn+jsRModmSaf5ulFE70Q5dr/vs2CctCx5xDPL/7Vd5R+5uJCZ+/T4rERrX84xAg65kDyq5DbVZLxGeXglQE/cRnOpsDzxKvvgICbI2CDCCpQrt4CFUIFMs1vVgYaJXYiB6IgZUjOKWNH3QkoZB3OKX6q/WiPERYWQxTAVUGJcICdPq3fRbJRLjHspex4R0FIHveTNGP8w/n8S3A/Xv73SgC2BlxSPPQ399sUYbA5c1qR24fgbuMbnDSLbQWIHtKPJpFfIvPz1V43U7vMFoobC5mJio10JSIn5cF5ZiLn17XaPLgt/R1TxH64xzKTWoPV2shwzcMOWy3JcjbpJPQEr7mD6zsWxG4IlWcDy5sHZ4EkKvJsWPa5+vJupEn5WcpaZ/EG44GADNzJBFSwUDmrdxDeJZ9UhGfzi2YW+YOfv5QZAifQOAElpRFmz5GdZP1BZ9DHCtXDjuwjOfzuDseIOawoXnEoQLSR1kHGhPQpnzm2ohbxdpKh/4jk1AhfP7HKnlNFBe8EE144NH2pVqZm7Z3iJWBz6855tyhlszoy5mC/sgcgs4SULqOpRdCJizMoyF0bby5SLCxBwv5MSYi9C8kG+equGgx2CN8+YxsZbMv3hvKkHPSc0/ufDk/IxVugRFRJg4/g99xT3CAXPp7p0tDfW8fmCzv/OmWZpek9Kbd3LLsk=
+ properties :
+  width : 600
+  height : 233
+  widthClient : 598
+  heightClient : 201
+ controls :
+  -
+    name : IMG_Style
+    identifier : 0x286e62370d7a9c50
+    internal_properties : CAAAAAgAAAAK7kzvpwsOAEDwO1XtgE6WjDvKuKejFwfdER4mjhcQx9sC+kMmXMaVZgPzqQ4DoQBz6jS7lC7l2eIRwe1O7p9eljXz8Vm3zfWEI3u8gcYwz+YglcthlXvRD3aVwNagycbVEJmoFqDDNCZ9DK718TqIb2sf8DrvPK+w4bFARC1vbrhA//txLLxRqtxaDspFo4sd6cRolTkFvDsYk/bVXeT+TxVZGwqPCDeRQFV3RAwDsTsEIzXRB+CmT/gcj2oYmxLTDzebq0LwqJ1WEjpHCCiC0/nfmmNqRu7t6nv5gtE1jCBfRSSesig/3NudJ8MSzOz4YsbkJ/Jo+/yeIyPgNYjELcPB6IJ2nJHlFxj70sHyC+xm5PRljRTx62ruQmIQxL1oEqji7XVsuaPOW2kQsiDdV80ZyGktjsp2Vyy8o5yDos/vlMoNdvFrAJefKfwLZ6ztfwDHhMdGsugvCy4w0ghulAa/zENThXhUrAHyF0k5I4Zkf1XAxj7hDPK3mophVYrsbYn3ZmvR2WtApQUnJspqQ+qg+TJG3Lk77UV1dTzrj/Q4bF+kUoZj53vbUhcQgXrNp6bfZf9nkFezkaQbPjrhOKz2bMj10dalkzYh/HQMJ++XK1TRze2OkD1UewVhmHxLk+aavvcPRKJoCK6hX7oCKjjj3z6xEoYNG8FiMkbWzDb7phTX9QYIXroLWgGfrz9m43wbFhQY9jvH3MgvfOin/djFG5M88ibMvvg2/IphB92lyUWXcl2YQUwSb4+Z0bLHxYVw7Z+qmiBaO7CruBEfyr2CD+TKI3SKHjkIwzNQ98d/R58bTXB2PPytpiktAXkA3qrpd7h1OyFrdVZiICznraDFddt2PwJmdPpC3kK+Rkm9HDO8WbGRBInCq9JZVD/u
+    properties :
+     x : -30
+     y : -28
+     width : 256
+     height : 256
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_Title
+    identifier : 0x286e62370d7b9c50
+    internal_properties : CAAAAAgAAAAmRPj2VhdoGthMqxa4sUon9mf3mY1zykqnwqNDDfGdhcZu2gw//Dy4iN0L0LuVESNc095FhJ3MnCgr8NI70U2Xen0eXbvmJWnp2ua0BcH+YeSTPbMWQOZfDlaiMIdCaxy4twfj5PSqP7wtUltzfqthkSAcBDRKGuGDJ/nCy9JuIZOk6Ra25fnAQXJ13UtBgmDMP6aL7/OQ41aE1xpTiSDIIEu9fXGlRR5L0O6m15vAoeysKeUghMHCQ1f1KFw4m19qYA2sS72G8F3vXRAnuUqjvxfQmxnnzzrQXPgGbRGV4bHkATp7kDa8vZgUG71fildtQTEtVxHQ0co+I8PSlr7ncQAh7bvM2LkrGWH5Ai/XXJNSBp4C7nDY6bYIRQ+a7GV5cT4ewvBIY6BEA3bpZqXbub7AhWrrwWr3PUvj2Xno2GMaoiDFliIaoY40hdkiaYaebIR57ZTBu+UHHw==
+    properties :
+     x : 6
+     y : 6
+     width : 586
+     height : 25
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Close
+    identifier : 0x286e62370d7c9c50
+    internal_properties : CAAAAAgAAADosYPCEbclRaGdFN7ers5P18gMOT4l0/U81WVhuYyr8hnVlhu/GnTJfdF8e8S2r+I3ANJbFFbINPw7DI7CzEJ0dxTlQqeQEbbkeE0THD95qV9c0gjSmxi21pGhAqmrLIL+pQKCPCPMQnObKxp4d4442LkXyxEcAG1LIlSKnXUL3pfQ4ZCrI7rJmmauKbjTF4KLBXtBHqopr2bFeG2pOz0l8KnhEZEHY3xVK6CFOXlLxRIoiHWVrZyXKJ0b32Amfhvv7qgc8aSFb/fSKok7R6QJbXPYi6SzqkuakyO/A3r+cfzaLApb+9AWJq1DWXt1W1H8Z9343X5xJ3XhJoQORY4ku0Qgx6lzM5sJ6DZElGtzQZty7hzppkzR1qyUuXasP1H5ply2YbwvcYTOutHF1KN8N20EQTHGSP1CrinnBPdhCqjCD0/Oi28bV8/Z2RXER+Q0jJIY8PqNLQi2kPqo4HtPMPfZ5JGN1TeWpgBpv0cf3Aaagx/OjM9/vEjBBbYrjQXW3a+yBR877GQjUz74rXLK4/ZivEbC4buRvZ0P+MJkyad5cc/lg44g8tHgPU8IXrHGjpOPI1XKInBZzux5fNNO3rW4jSe/AqwhE0P5iVyUL5Dt+6vg4hhAeyTZ2lvoAnL3wyMbGo920RXGDjJ3uNo+Daa8kuPkdRjcCNDvYnszyE0N2JXCXYkYgxp21+vJk8mm+j0OwCSUM63Iti46MczWNcLQOV+m8qj7qZwx5iRKssBDBnpSsAhZCZqabk5oi56VaiRkGlqF7KrN9cE8ZYF0IYJl2Txjnzj95ZbJ3xzc3xEkDy0ksLnNFZpxiQYIdVMSScK8wKbV5Ed8Tmq3l4rDZOHG8xEm8wk7vLjDcwL07XwjrId+1ULos8Va/Spcpibtk4NT+FlEQZvy4JB56H17nJvOl7XNaALPWLexfmK1HTl6hoxAvap4QLR7Cls8
+    properties :
+     x : 512
+     y : 171
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Message
+    identifier : 0x286e62370d7d9c50
+    internal_properties : CAAAAAgAAAAB+7Bjw+0mSEVRok/fRaYujEW874/B/mXhKiAr9II61CJcw1KMNdP+9oQ6rk7aXHf/7Q4oyS+8SLMxbMUObgNRbEYlZH2qtlkx0BVRJng3YIBAMZ7DrVyXZyZNbv4Xz7OLhmuYHhI5thEu6J0ZPTRAOaJtuUPyPjElPqvNVS8vTem1WP+VyBWOsHPu2IuYg5tISgK3FgwJu8QXZafEQvlfATaAvIr1FoYAVFAKoMODiXdSmPu/ayEmyqbwva/RX8TOIqoWbsXkvQcctO1pKMxpf/2rDw/B429IwKZs0r9aNKQqMFH5Hi4euuCaRO88ABuLsUYJqdhMK/ocvL6+ooM6NUpAfavt9yKBg0n+7P/J1ppTe5RKcuobAUdj4X3/ckg+h7+AIF2hEeED0DBatgDfy+RozjFYU3mjMCrAKhboMP6gPMTwck2g+GA+z/HlNPg08A==
+    properties :
+     x : 6
+     y : 37
+     width : 586
+     height : 119
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE WIN_WindowAutomaticCheck(gnMode is int, gsMessage is string, gnDisplayDuration is int)
+      
+   -
+     code : |1+
+      // Modifies the title according to the mode
+      SWITCH gnMode
+      	CASE acForbidden : STC_Title = <§$0000§>
+      	CASE acWarning : STC_Title = <§$0001§>
+      	CASE acStop : STC_Title = <§$0002§>
+      END
+      
+      // Displays the message
+      STC_Message = gsMessage
+      
+      // Defines the time-out of the closing button
+      DelayBeforeClosing(MyWindow, BTN_Close, gnDisplayDuration*100)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      // If the mode is "Stop", the application must be stopped
+      IF gnMode = acStop THEN EndProgram()
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1e576803894c209c
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      en-GB : "Remote check: access to the application forbidden"
+     index : 0
+   -
+     text :
+      en-GB : "Remote check: warning of imminent shutdown"
+     index : 1
+   -
+     text :
+      en-GB : "Remote check: application shutdown"
+     index : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

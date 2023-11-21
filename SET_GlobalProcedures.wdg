@@ -1,0 +1,74 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : SET_GlobalProcedures
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x187603c1000e685d
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAAAcDi/VOGTzZB9hTM3PL/6PlTJTk7Ji2fsZ6D3soM8HljjGMW6nMKhvluQOm3HGDu8kz33D3SjMIdJNys/+8cl/jaO2J8behynF+yrsWZL6oe6Tnw==
+  type_code : 31
+  p_codes :
+   -
+     code : |1-
+      
+     type : 720896
+   -
+     code : |1-
+      
+     type : 720898
+  procedures :
+   -
+     name : ProcedureAutomaticCheck
+     procedure_id : 1762600431626709085
+     type_code : 15
+     code : |1-
+      // Summary: Procedure called to manage the automatic check
+      // Syntax:
+      //ProcedureAutomaticCheck (<nMode> is int, <sMessage> is string, <nDisplayDuration> is int)
+      //
+      // Parameters:
+      //	nMode (integer): Remote check mode (acForbidden, acWarning, acStop constants)
+      //	sMessage (ANSI string): Message corresponding to the current mode
+      //	nDisplayDuration (integer): Maximum display duration of an eventual window (in seconds)
+      // Return value:
+      // 	None
+      //
+      PROCEDURE ProcedureAutomaticCheck(LOCAL nMode is int, LOCAL sMessage is string, LOCAL nDisplayDuration is int)
+      
+      sTitle is string
+      
+      
+      // Defines a title for the information box that will be displayed
+      SWITCH nMode
+      	CASE acForbidden : sTitle = "Remote check: access to the application forbidden"
+      	CASE acWarning : sTitle = "Remote check: warning of imminent shutdown"
+      	CASE acStop : sTitle = "Remote check: application shutdown"
+      END
+      NextTitle(sTitle)
+      
+      // Defines the time-out for the information box
+      DelayBeforeClosing(nDisplayDuration*100)
+      
+      // Displays the message
+      Info(sMessage)
+      
+      // If the mode is "Stop", the application must be stopped
+      IF nMode = acStop THEN EndProgram()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : COL_SansNom1
+resources :
+ string_res :
+  identifier : 0x1e576846894e232b
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ
